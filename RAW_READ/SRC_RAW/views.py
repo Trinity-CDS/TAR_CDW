@@ -1,4 +1,8 @@
 # Databricks notebook source
+#views
+
+# COMMAND ----------
+
 tables_list = [
     "MDV_DW_IMS_XPO",
     "MDV_DW_IMS_PDRP",
